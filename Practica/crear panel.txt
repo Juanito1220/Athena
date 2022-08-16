@@ -1,0 +1,6 @@
+1- crear panel, tabla general.tb_paneles
+2- crear VC la vista y el controlador como se defina en la descripcion desarrollo
+3- al crea la vista se puede basar en una ya existente,y dejar  la estrcutura de header, boyd y footer,
+4- crear el archivo JS enla ruta correspondiente y registrarlo en el bundle
+5- creaer el controlador con el mismo nombre de la vista, un controlador limpi debe tener soloel metodo index retornado la vista corespondientes,
+	poner decoradores en el index y en la clase segun se requeira, (seguridad, ajax, etc)
